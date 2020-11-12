@@ -6,7 +6,7 @@ example:
 - python3 Insertion_sort.py
 
 # Done
-- Python, C
+- Python, C, Rust
 
 # To Do
 add more programming languages
